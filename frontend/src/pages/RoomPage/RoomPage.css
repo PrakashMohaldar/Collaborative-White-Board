@@ -1,0 +1,6 @@
+input, label{
+    cursor: pointer;
+}
+.canvas-box{
+    height: 500px;
+}
